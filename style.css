@@ -1,0 +1,45 @@
+body{
+    font-family: 'Ubuntu', monospace;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+
+header{
+    width: 100%;
+    text-align: center; 
+    background-color: #483D8B;
+    position: fixed; 
+    padding: 25px;
+    top: 0%;
+    
+}
+
+header a {
+    border:  2px ;
+    padding: 10px;
+    color: black;
+    
+
+}
+
+.banner{
+    width: 100%;
+}
+
+#chat{
+    width: 5%;
+    margin-left: 93%;
+    position: fixed;
+    left: 10px;
+    bottom: 30px;
+}
+
+footer{
+    background-color: #483D8B;
+    color: rgb(19, 17, 17);
+    text-align: center;
+    
+    width: 100%;
+}
